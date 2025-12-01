@@ -3,7 +3,6 @@ tmp/*
 !/tmp/.gitkeep
 data/
 output/
-docs/
 *.log
 
 # Airflow files
