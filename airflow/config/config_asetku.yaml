@@ -1,0 +1,5 @@
+csv_path: "data/asetku/extract.csv"
+dataset_id: "dataset_id"
+table_id: "asetku"
+project_id: "project_id"
+credential_path: "config/gcs_keys.json"

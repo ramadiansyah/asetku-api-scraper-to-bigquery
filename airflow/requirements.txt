@@ -1,0 +1,38 @@
+# capstone 3, project 1
+faker
+psycopg2-binary==2.9.10
+pytz
+logging
+sqlalchemy
+pandas==2.2.3 # Handle tabular data (DataFrame), used in ETL steps
+python-dotenv==1.1.0
+
+# add for: capstone 3, project 2
+pyarrow==20.0.0
+gcsfs
+google-cloud-storage
+google-cloud-bigquery
+apache-airflow[gcp]==2.9.1
+requests
+
+# add for: capstone 2, project 2
+cramjam==2.10.0
+fastparquet==2024.11.0
+fsspec==2025.3.2
+numpy==2.2.6
+packaging==25.0
+python-dateutil==2.9.0.post0
+pytz==2025.2
+PyYAML==6.0.2
+six==1.17.0
+SQLAlchemy
+typing_extensions==4.13.2
+tzdata==2025.2
+
+# add for: scraping 1
+bs4
+
+apache-airflow-providers-docker
+protobuf==4.23.4
+
+
